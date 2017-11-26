@@ -1,0 +1,789 @@
+{
+  "cate_list": [
+    {
+      "title": "热门分类",
+      "rigth_img": {
+        "image": "",
+        "img_size": "",
+        "target": {}
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_521",
+          "name": "体内驱虫",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/81f4ac6b5b31143c056046bd9dc14b9e.jpg"
+        },
+        {
+          "id_param": "cateid_413",
+          "name": "强化免疫",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/04/16/fd206e6489657294e9067d349ea297f1.jpg"
+        },
+        {
+          "id_param": "cateid_756",
+          "name": "肠胃调理",
+          "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/8095e54e9414a06705acb7471eac7629.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗主粮",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:5"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_78",
+          "name": "散装狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/d35af0c7d00d62dc18165cdce3a9b8e1.jpg"
+        },
+        {
+          "id_param": "cateid_3554",
+          "name": "处方狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3512594b71a2efd14b5c5925848d2e5a.jpg"
+        },
+        {
+          "id_param": "cateid_4307",
+          "name": "冻干狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/16/4e3455a75bc8d75be71816e51b917103.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗零食",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:6"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        },
+        {
+          "id_param": "cateid_132",
+          "name": "肉制零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/d50177937573448726b3fb99b5d48274.jpg"
+        },
+        {
+          "id_param": "cateid_133",
+          "name": "点心饮料",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/f6c39185cb72a306122dd403c94c3a10.jpg"
+        },
+        {
+          "id_param": "cateid_135",
+          "name": "罐头湿粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/9a7eb995107ffdfd1a6b5fa8928cfc02.jpg"
+        },
+        {
+          "id_param": "cateid_4306",
+          "name": "磨牙饼干",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/15/2e603a140e903ece0d8e9a86fcb97464.jpg"
+        },
+        {
+          "id_param": "cateid_4308",
+          "name": "冻干零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/17/4bf6a8f261337e34e38d4d8b43d149f1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗服饰",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:55"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_336",
+          "name": "时尚服装",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/7feeef10bab3d2e8df8a9149e0cb7c70.jpg"
+        },
+        {
+          "id_param": "cateid_337",
+          "name": "精美配饰",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/1d55d100e176bd571e4b0fd85604a14d.jpg"
+        },
+        {
+          "id_param": "cateid_4310",
+          "name": "断码反季",
+          "photo": "https://img2.epetbar.com/nowater/2017-10/10/16/d55b1ff4802aa8b6eb402c6292022084.jpg"
+        }
+      ]
+    },
+    {
+      "title": "热门分类",
+      "rigth_img": {
+        "image": "",
+        "img_size": "",
+        "target": {}
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_521",
+          "name": "体内驱虫",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/81f4ac6b5b31143c056046bd9dc14b9e.jpg"
+        },
+        {
+          "id_param": "cateid_413",
+          "name": "强化免疫",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/04/16/fd206e6489657294e9067d349ea297f1.jpg"
+        },
+        {
+          "id_param": "cateid_756",
+          "name": "肠胃调理",
+          "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/8095e54e9414a06705acb7471eac7629.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗主粮",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:5"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_78",
+          "name": "散装狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/d35af0c7d00d62dc18165cdce3a9b8e1.jpg"
+        },
+        {
+          "id_param": "cateid_3554",
+          "name": "处方狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3512594b71a2efd14b5c5925848d2e5a.jpg"
+        },
+        {
+          "id_param": "cateid_4307",
+          "name": "冻干狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/16/4e3455a75bc8d75be71816e51b917103.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗零食",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:6"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        },
+        {
+          "id_param": "cateid_132",
+          "name": "肉制零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/d50177937573448726b3fb99b5d48274.jpg"
+        },
+        {
+          "id_param": "cateid_133",
+          "name": "点心饮料",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/f6c39185cb72a306122dd403c94c3a10.jpg"
+        },
+        {
+          "id_param": "cateid_135",
+          "name": "罐头湿粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/9a7eb995107ffdfd1a6b5fa8928cfc02.jpg"
+        },
+        {
+          "id_param": "cateid_4306",
+          "name": "磨牙饼干",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/15/2e603a140e903ece0d8e9a86fcb97464.jpg"
+        },
+        {
+          "id_param": "cateid_4308",
+          "name": "冻干零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/17/4bf6a8f261337e34e38d4d8b43d149f1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗服饰",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:55"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_336",
+          "name": "时尚服装",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/7feeef10bab3d2e8df8a9149e0cb7c70.jpg"
+        },
+        {
+          "id_param": "cateid_337",
+          "name": "精美配饰",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/1d55d100e176bd571e4b0fd85604a14d.jpg"
+        },
+        {
+          "id_param": "cateid_4310",
+          "name": "断码反季",
+          "photo": "https://img2.epetbar.com/nowater/2017-10/10/16/d55b1ff4802aa8b6eb402c6292022084.jpg"
+        }
+      ]
+    },
+    {
+      "title": "热门分类",
+      "rigth_img": {
+        "image": "",
+        "img_size": "",
+        "target": {}
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_521",
+          "name": "体内驱虫",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/81f4ac6b5b31143c056046bd9dc14b9e.jpg"
+        },
+        {
+          "id_param": "cateid_413",
+          "name": "强化免疫",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/04/16/fd206e6489657294e9067d349ea297f1.jpg"
+        },
+        {
+          "id_param": "cateid_756",
+          "name": "肠胃调理",
+          "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/8095e54e9414a06705acb7471eac7629.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗主粮",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:5"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_78",
+          "name": "散装狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/d35af0c7d00d62dc18165cdce3a9b8e1.jpg"
+        },
+        {
+          "id_param": "cateid_3554",
+          "name": "处方狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3512594b71a2efd14b5c5925848d2e5a.jpg"
+        },
+        {
+          "id_param": "cateid_4307",
+          "name": "冻干狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/16/4e3455a75bc8d75be71816e51b917103.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗零食",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:6"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        },
+        {
+          "id_param": "cateid_132",
+          "name": "肉制零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/d50177937573448726b3fb99b5d48274.jpg"
+        },
+        {
+          "id_param": "cateid_133",
+          "name": "点心饮料",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/f6c39185cb72a306122dd403c94c3a10.jpg"
+        },
+        {
+          "id_param": "cateid_135",
+          "name": "罐头湿粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/9a7eb995107ffdfd1a6b5fa8928cfc02.jpg"
+        },
+        {
+          "id_param": "cateid_4306",
+          "name": "磨牙饼干",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/15/2e603a140e903ece0d8e9a86fcb97464.jpg"
+        },
+        {
+          "id_param": "cateid_4308",
+          "name": "冻干零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/17/4bf6a8f261337e34e38d4d8b43d149f1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗服饰",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:55"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_336",
+          "name": "时尚服装",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/7feeef10bab3d2e8df8a9149e0cb7c70.jpg"
+        },
+        {
+          "id_param": "cateid_337",
+          "name": "精美配饰",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/1d55d100e176bd571e4b0fd85604a14d.jpg"
+        },
+        {
+          "id_param": "cateid_4310",
+          "name": "断码反季",
+          "photo": "https://img2.epetbar.com/nowater/2017-10/10/16/d55b1ff4802aa8b6eb402c6292022084.jpg"
+        }
+      ]
+    },
+    {
+      "title": "热门分类",
+      "rigth_img": {
+        "image": "",
+        "img_size": "",
+        "target": {}
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_521",
+          "name": "体内驱虫",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/81f4ac6b5b31143c056046bd9dc14b9e.jpg"
+        },
+        {
+          "id_param": "cateid_413",
+          "name": "强化免疫",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/04/16/fd206e6489657294e9067d349ea297f1.jpg"
+        },
+        {
+          "id_param": "cateid_756",
+          "name": "肠胃调理",
+          "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/8095e54e9414a06705acb7471eac7629.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗主粮",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:5"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_78",
+          "name": "散装狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/d35af0c7d00d62dc18165cdce3a9b8e1.jpg"
+        },
+        {
+          "id_param": "cateid_3554",
+          "name": "处方狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3512594b71a2efd14b5c5925848d2e5a.jpg"
+        },
+        {
+          "id_param": "cateid_4307",
+          "name": "冻干狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/16/4e3455a75bc8d75be71816e51b917103.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗零食",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:6"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        },
+        {
+          "id_param": "cateid_132",
+          "name": "肉制零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/d50177937573448726b3fb99b5d48274.jpg"
+        },
+        {
+          "id_param": "cateid_133",
+          "name": "点心饮料",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/f6c39185cb72a306122dd403c94c3a10.jpg"
+        },
+        {
+          "id_param": "cateid_135",
+          "name": "罐头湿粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/9a7eb995107ffdfd1a6b5fa8928cfc02.jpg"
+        },
+        {
+          "id_param": "cateid_4306",
+          "name": "磨牙饼干",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/15/2e603a140e903ece0d8e9a86fcb97464.jpg"
+        },
+        {
+          "id_param": "cateid_4308",
+          "name": "冻干零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/17/4bf6a8f261337e34e38d4d8b43d149f1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗服饰",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:55"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_336",
+          "name": "时尚服装",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/7feeef10bab3d2e8df8a9149e0cb7c70.jpg"
+        },
+        {
+          "id_param": "cateid_337",
+          "name": "精美配饰",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/1d55d100e176bd571e4b0fd85604a14d.jpg"
+        },
+        {
+          "id_param": "cateid_4310",
+          "name": "断码反季",
+          "photo": "https://img2.epetbar.com/nowater/2017-10/10/16/d55b1ff4802aa8b6eb402c6292022084.jpg"
+        }
+      ]
+    },
+    {
+      "title": "热门分类",
+      "rigth_img": {
+        "image": "",
+        "img_size": "",
+        "target": {}
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_521",
+          "name": "体内驱虫",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/81f4ac6b5b31143c056046bd9dc14b9e.jpg"
+        },
+        {
+          "id_param": "cateid_413",
+          "name": "强化免疫",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/04/16/fd206e6489657294e9067d349ea297f1.jpg"
+        },
+        {
+          "id_param": "cateid_756",
+          "name": "肠胃调理",
+          "photo": "https://img2.epetbar.com/nowater/2016-08/20/14/8095e54e9414a06705acb7471eac7629.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗主粮",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:5"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_7",
+          "name": "进口狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2016-07/21/14/0f972761c08a37c8baff88fa9302053d.jpg"
+        },
+        {
+          "id_param": "cateid_3555",
+          "name": "国产狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/12/10/f38b8a4245c34c33061d04ad1e8009dd.jpg"
+        },
+        {
+          "id_param": "cateid_78",
+          "name": "散装狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/d35af0c7d00d62dc18165cdce3a9b8e1.jpg"
+        },
+        {
+          "id_param": "cateid_3554",
+          "name": "处方狗粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/3512594b71a2efd14b5c5925848d2e5a.jpg"
+        },
+        {
+          "id_param": "cateid_4307",
+          "name": "冻干狗粮",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/16/4e3455a75bc8d75be71816e51b917103.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗零食",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:6"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_10",
+          "name": "磨牙洁齿",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/2eeb97d6268f555de24ec370fd0de2ad.jpg"
+        },
+        {
+          "id_param": "cateid_132",
+          "name": "肉制零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-05/26/10/d50177937573448726b3fb99b5d48274.jpg"
+        },
+        {
+          "id_param": "cateid_133",
+          "name": "点心饮料",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/f6c39185cb72a306122dd403c94c3a10.jpg"
+        },
+        {
+          "id_param": "cateid_135",
+          "name": "罐头湿粮",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/9a7eb995107ffdfd1a6b5fa8928cfc02.jpg"
+        },
+        {
+          "id_param": "cateid_4306",
+          "name": "磨牙饼干",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/15/2e603a140e903ece0d8e9a86fcb97464.jpg"
+        },
+        {
+          "id_param": "cateid_4308",
+          "name": "冻干零食",
+          "photo": "https://img2.epetbar.com/nowater/2017-09/01/17/4bf6a8f261337e34e38d4d8b43d149f1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "狗狗服饰",
+      "rigth_img": {
+        "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/cate_right_img.png",
+        "target": {
+          "mode": "goods_list",
+          "param": "cateid:55"
+        },
+        "img_size": "138x30"
+      },
+      "type": 0,
+      "flag_icon": "",
+      "list": [
+        {
+          "id_param": "cateid_336",
+          "name": "时尚服装",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/7feeef10bab3d2e8df8a9149e0cb7c70.jpg"
+        },
+        {
+          "id_param": "cateid_337",
+          "name": "精美配饰",
+          "photo": "https://img2.epetbar.com/nowater/cates/2014-03/24/1d55d100e176bd571e4b0fd85604a14d.jpg"
+        },
+        {
+          "id_param": "cateid_4310",
+          "name": "断码反季",
+          "photo": "https://img2.epetbar.com/nowater/2017-10/10/16/d55b1ff4802aa8b6eb402c6292022084.jpg"
+        }
+      ]
+    }
+  ]
+}
