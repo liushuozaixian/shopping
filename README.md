@@ -25,4 +25,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## mock数据
 ## better-scroll
 ## mint-ui等
-## SG测试
+
