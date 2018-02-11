@@ -161,16 +161,17 @@
       flex-wrap wrap
       span
         width 25%
-        height 90px
+        height 50%
         display flex
         justify-content center
         align-items center
         span
-          width 90%
-          height 90%
+          width 100%
+          height 100%
           background-image url("../../common/img/4.gif")
-          background-size 100%
+          background-size 100% 100%
           img
+            display block
             width 100%
             height 100%
     .everydaysell
